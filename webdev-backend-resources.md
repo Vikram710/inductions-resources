@@ -15,6 +15,7 @@ With the next task we'll be venturing into the Backend of web services. We’ve 
 
 - [https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04) - Tutorial on setting up Apache, PHP, and MySQL on Ubuntu. DigitalOcean tutorials are pretty good in general.
 - [https://phptherightway.com/](https://phptherightway.com/) - A nice PHP reference
+- [https://www.youtube.com/user/TheCharmefis](https://www.youtube.com/user/TheCharmefis) - A good Youtube channel for PHP
 - [https://www.youtube.com/watch?v=OK_JCtrrv-c](https://www.youtube.com/watch?v=OK_JCtrrv-c) - A good intro to PHP (mostly covers all the important concepts)
 - [https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs) - Express/Node tutorial from MDN
 - [https://youtu.be/9FBDda0NCwo](https://youtu.be/9FBDda0NCwo) - A video series on Flask for backend
